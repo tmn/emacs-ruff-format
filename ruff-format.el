@@ -3,7 +3,7 @@
 ;; Copyright (C) 2023  Ville Skyttä
 
 ;; Author: Ville Skyttä <ville.skytta@iki.fi>
-;; URL: https://github.com/scop/emacs-ruff-format
+;; URL: https://github.com/JoshHayes/emacs-ruff-format
 ;; Package-Requires: ((emacs "24") (reformatter "0.3"))
 ;; Version: 0
 
